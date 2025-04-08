@@ -32,12 +32,12 @@
 <div>
 
 ##### GitHub status
-![lining-lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lining-lo-byte&show_icons=true&theme=shadow_green&hide=issues&line_height=24)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lining-lo-byte&layout=compact&show_icons=truee&include_all_commits=true&theme=shadow_green&card_width=360)
+![lining-lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lining-lo&show_icons=true&theme=shadow_green&hide=issues&line_height=24)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lining-lo&layout=compact&show_icons=truee&include_all_commits=true&theme=shadow_green&card_width=360)
 <!--
-![](https://github-readme-activity-graph.cyclic.app/graph?username=lining-lo-byte&theme=github)
-![](https://github-readme-stats.vercel.app/api?username=lining-lo-byte&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lining-lo-byte&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=lining-lo&theme=github)
+![](https://github-readme-stats.vercel.app/api?username=lining-lo&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lining-lo&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
 -->
 <!-- ======================================= -->
 
